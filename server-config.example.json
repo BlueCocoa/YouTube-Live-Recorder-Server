@@ -1,0 +1,8 @@
+{
+	"ClientID":"XXXXXXXXXXXXXXXXXXXXXX",
+	"ClientSecret":"XXXXXXXXXXXXXXXXXX",
+	"RedirectURL":"https://XXXXXXXXXXX/oauth-callback",
+	"AuthURL":"https://accounts.google.com/o/oauth2/auth",
+	"TokenURL":"https://oauth2.googleapis.com/token",
+	"Listen": ":5534"
+}
